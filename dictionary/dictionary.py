@@ -49,5 +49,10 @@ class Dictionary:
             return []
         return self.dict[key]
 
+    def print(self):
+        for words in self.dict.values():
+            for word in words:
+                print (word)
+
     def __str__(self):
         return f"This dictionary is sourced from {self.wordfile}"
