@@ -3,10 +3,10 @@
 # word finder for the kmb app1933 English game
 #
 
-from dictionary.dictionary import Dictionary
+from dictionary.kmb_dictionary import KMBDictionary
 
 def main():
-    dict = Dictionary()
+    dict = KMBDictionary()
     print (dict)
 
     while True:

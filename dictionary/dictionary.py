@@ -1,5 +1,3 @@
-import re
-
 class Dictionary:
     default_wordfile = "words_alpha.txt"
 
@@ -7,6 +5,19 @@ class Dictionary:
         self.wordfile = wordfile
         self.dict = self.load(self.wordfile)
 
+    # define the conditions to exclude certain words
+    # from the dictionary index
+    # return True to skip a word
+    def can_skip(self, word):
+        print ("DEBUG: parent can_skip called!")
+        return False
+
+    # dictionary key is the sorted characters of a word
+    def search_key(self, word):
+        char_list = list(word.lower())
+        char_list.sort()
+        return "".join(char_list)
+    
     # create a dictionary where the key is the
     # ordered string of characters, and the value
     # is a list of words that can be spelled by
@@ -17,21 +28,14 @@ class Dictionary:
             for line in f:
                 word = line.strip().lower()
 
-                # ignore non-alphabets
-                if not re.search(r"^[a-z]+$", word):
+                if self.can_skip(word):
                     continue
 
-                # ignore words longer than 12 chars
-                if len(word) > 12:
-                    continue
+                key = self.search_key(word)
 
-                char_list = list(word)
-                char_list.sort()
-                word_key = "".join(char_list).lower()
-
-                if not word_key in dict:
-                    dict[word_key] = []
-                dict[word_key].append(word)
+                if not key in dict:
+                    dict[key] = []
+                dict[key].append(word)
 
         return dict
 
@@ -39,13 +43,11 @@ class Dictionary:
     # return a list of words that can be formed
     # with the string of characters
     def find(self, string):
-        char_list = list(string)
-        char_list.sort()
-        word_key = "".join(char_list).lower()
+        key = self.search_key(string)
 
-        if not word_key in self.dict:
+        if not key in self.dict:
             return []
-        return self.dict[word_key]
+        return self.dict[key]
 
     def __str__(self):
         return f"This dictionary is sourced from {self.wordfile}"
