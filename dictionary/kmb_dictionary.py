@@ -2,7 +2,7 @@ import re
 from .dictionary import Dictionary
 
 class KMBDictionary(Dictionary):
-    default_wordfile = "words_alpha.txt"
+    default_wordfile = "words_kmb.txt"
     def __init__(self, wordfile=default_wordfile):
         super().__init__(wordfile)
 
