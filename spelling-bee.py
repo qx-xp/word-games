@@ -19,7 +19,7 @@ def is_valid_input(chars):
 def main():
     while True:
         try:
-            line = input("Spelling Bee: Enter 7 letters >>> ")
+            line = input("Spelling Bee: Enter the required letter first, followed by 6 optional letters >>> ")
             string = line.strip()
             if is_valid_input(string):
                 break
@@ -31,18 +31,21 @@ def main():
             sys.exit(1)
 
     dict = SpellingBeeDictionary(string)
-    print (dict)
 
-    # dump the entire word list lol
-    #dict.print()
-    #sys.exit(0)
+    # print all pangrams
+    print("PANGRAMS:")
+    for word in dict.pangrams():
+        print(word)
+    print()
 
     # interactive mode
+    print("Spelling Bee: Interactive Hint Lookup")
+    print("Enter the first 2 chars and the length of the word e.g. wo4")
     while True:
         try:
             line = input(">>> ")
-            string = line.strip()
-            for match in dict.find(string):
+            hint = line.strip()
+            for match in dict.find(hint):
                 print(match)
         except EOFError:
             break

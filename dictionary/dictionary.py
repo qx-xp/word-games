@@ -44,15 +44,11 @@ class Dictionary:
     # with the string of characters
     def find(self, string):
         key = self.search_key(string)
+        print(f"DEBUG: lookup \"{key}\"")
 
         if not key in self.dict:
             return []
         return self.dict[key]
-
-    def print(self):
-        for words in self.dict.values():
-            for word in words:
-                print (word)
 
     def __str__(self):
         return f"This dictionary is sourced from {self.wordfile}"
