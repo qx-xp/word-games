@@ -50561,7 +50561,6 @@ ceorlish
 ceorls
 cepa
 cepaceous
-cepe
 cepes
 cephadia
 cephaeline
@@ -56659,7 +56658,6 @@ cipo
 cipolin
 cipolins
 cipollino
-cippi
 cippus
 circ
 circa
@@ -80726,12 +80724,10 @@ depauperize
 depauperized
 depayse
 depaysee
-depe
 depeach
 depeche
 depectible
 depeculate
-depeinct
 depel
 depencil
 depend
@@ -80832,7 +80828,6 @@ depilatories
 depilatory
 depilitant
 depilous
-depit
 deplace
 deplaceable
 deplane
@@ -81098,7 +81093,6 @@ deprovincialize
 depsid
 depside
 depsides
-dept
 depth
 depthen
 depthing
@@ -85408,11 +85402,7 @@ dipartition
 dipaschal
 dipchick
 dipcoat
-dipentene
-dipentine
-dipeptid
 dipeptidase
-dipeptide
 dipetalous
 dipetto
 diphase
@@ -85718,7 +85708,6 @@ dipsosis
 dipstick
 dipsticks
 dipsy
-dipt
 dipter
 diptera
 dipteraceae
@@ -98940,7 +98929,6 @@ endozoa
 endozoic
 endpaper
 endpapers
-endpiece
 endplate
 endplates
 endplay
@@ -100941,7 +100929,6 @@ ependyme
 ependymitis
 ependymoma
 ependytes
-epenetic
 epenla
 epentheses
 epenthesis
@@ -101099,7 +101086,6 @@ epicarp
 epicarpal
 epicarps
 epicauta
-epicede
 epicedia
 epicedial
 epicedian
@@ -101207,7 +101193,6 @@ epicyemate
 epicyesis
 epicystotomy
 epicyte
-epideictic
 epideictical
 epideistic
 epidemial
@@ -101256,7 +101241,6 @@ epidia
 epidialogue
 epidiascope
 epidiascopic
-epidictic
 epidictical
 epididymal
 epididymectomy
@@ -101483,7 +101467,6 @@ epinephelidae
 epinephelus
 epinephrin
 epinephrine
-epinette
 epineuneuria
 epineural
 epineuria
@@ -101498,7 +101481,6 @@ epinicion
 epinikia
 epinikian
 epinikion
-epinine
 epinyctis
 epionychia
 epionychium
@@ -101767,7 +101749,6 @@ episyllogism
 episynaloephe
 episynthetic
 episyntheton
-epit
 epitactic
 epitaph
 epitapher
@@ -101984,7 +101965,6 @@ epoxy
 epoxyed
 epoxying
 eppes
-eppie
 eppy
 epris
 eprise
@@ -147569,8 +147549,6 @@ incentively
 incentives
 incentor
 incentre
-incept
-incepted
 incepting
 inception
 inceptions
@@ -147655,7 +147633,6 @@ incipiencies
 incipiency
 incipient
 incipiently
-incipit
 incipits
 incipitur
 incircle
@@ -155333,7 +155310,6 @@ ipecacuanhic
 iphigenia
 iphimedia
 iphis
-ipid
 ipidae
 ipil
 ipilipil
@@ -194846,7 +194822,6 @@ neencephalic
 neencephalon
 neencephalons
 neengatu
-neep
 neepour
 neeps
 neer
@@ -195521,7 +195496,6 @@ nephrotyphus
 nephrozymosis
 nepidae
 nepionic
-nepit
 nepman
 nepmen
 nepotal
@@ -196914,7 +196888,6 @@ ninebarks
 ninefold
 nineholes
 ninepegs
-ninepence
 ninepences
 ninepennies
 ninepenny
@@ -225197,7 +225170,6 @@ pechs
 pecht
 pechys
 pecify
-pecite
 peck
 peckage
 pecked
@@ -225233,9 +225205,7 @@ pectase
 pectases
 pectate
 pectates
-pecten
 pectens
-pectic
 pectin
 pectinacea
 pectinacean
@@ -225259,13 +225229,10 @@ pectinibranchia
 pectinibranchian
 pectinibranchiata
 pectinibranchiate
-pectinic
-pectinid
 pectinidae
 pectiniferous
 pectiniform
 pectinirostrate
-pectinite
 pectinogen
 pectinoid
 pectinose
@@ -225430,7 +225397,6 @@ peddlery
 peddles
 peddling
 peddlingly
-pedee
 pedelion
 pederast
 pederastic
@@ -225463,7 +225429,6 @@ pedestrians
 pedestrious
 pedetentous
 pedetes
-pedetic
 pedetidae
 pedetinae
 pediad
@@ -225660,7 +225625,6 @@ peelite
 peelman
 peels
 peen
-peened
 peenge
 peening
 peens
@@ -225774,9 +225738,6 @@ pehuenche
 peignoir
 peignoirs
 peiktha
-pein
-peine
-peined
 peining
 peins
 peiping
@@ -226154,7 +226115,6 @@ pendencies
 pendency
 pendens
 pendent
-pendente
 pendentive
 pendently
 pendents
@@ -226162,7 +226122,6 @@ pendicle
 pendicler
 pending
 pendle
-pendn
 pendom
 pendragon
 pendragonish
@@ -226184,7 +226143,6 @@ pendulumlike
 pendulums
 penecontemporaneous
 penectomy
-peneid
 penelope
 penelopean
 penelophon
@@ -226253,7 +226211,6 @@ penicillin
 penicillinic
 penicillium
 penicils
-penide
 penile
 penillion
 peninsula
@@ -226325,16 +226282,14 @@ pennatularian
 pennatulid
 pennatulidae
 pennatuloid
+penne
 penned
 penneech
 penneeck
 penner
 penners
-pennet
 penney
-penni
 pennia
-pennied
 pennies
 penniferous
 penniform
@@ -226343,12 +226298,10 @@ penniless
 pennilessly
 pennilessness
 pennill
-pennine
 penninervate
 penninerved
 pennines
 penning
-penninite
 pennipotent
 pennis
 pennisetum
@@ -226654,7 +226607,6 @@ pentecoster
 pentecostys
 pentelic
 pentelican
-pentene
 penteteric
 penthemimer
 penthemimeral
@@ -226671,14 +226623,10 @@ penthouses
 penthousing
 penthrit
 penthrite
-pentice
 penticle
 pentimenti
 pentimento
-pentine
 pentiodide
-pentit
-pentite
 pentitol
 pentlandite
 pentobarbital
@@ -226836,7 +226784,6 @@ peppery
 peppier
 peppiest
 peppily
-peppin
 peppiness
 pepping
 peppy
@@ -226859,11 +226806,9 @@ peptic
 peptical
 pepticity
 peptics
-peptid
 peptidase
 peptide
 peptides
-peptidic
 peptidically
 peptidoglycan
 peptidolytic
@@ -228964,7 +228909,6 @@ petaurus
 petchary
 petcock
 petcocks
-pete
 peteca
 petechia
 petechiae
@@ -229171,7 +229115,6 @@ pettedly
 pettedness
 petter
 petters
-petti
 pettiagua
 pettichaps
 petticoat
@@ -232406,10 +232349,7 @@ picciotto
 piccolo
 piccoloist
 piccolos
-pice
 picea
-picein
-picene
 picenian
 piceoferruginous
 piceotestaceous
@@ -232423,12 +232363,10 @@ pichiciagos
 pichiciego
 pichuric
 pichurim
-pici
 picidae
 piciform
 piciformes
 picinae
-picine
 pick
 pickaback
 pickable
@@ -232601,7 +232539,6 @@ picrotoxinin
 picry
 picryl
 pics
-pict
 pictarnie
 pictavi
 pictish
@@ -232705,12 +232642,10 @@ pieceless
 piecemaker
 piecemeal
 piecemealwise
-piecen
 piecener
 piecer
 piecers
 pieces
-piecette
 piecewise
 piecework
 pieceworker
@@ -232743,10 +232678,8 @@ pielum
 piemag
 pieman
 piemarker
-pien
 pienaar
 pienanny
-piend
 pientao
 piepan
 pieplant
@@ -232793,12 +232726,9 @@ piert
 pies
 pieshop
 piest
-piet
 pieta
 pietas
-piete
 pieter
-pietic
 pieties
 pietism
 pietisms
@@ -233348,7 +233278,6 @@ pincer
 pincerlike
 pincers
 pincerweed
-pincette
 pinch
 pinchable
 pinchback
@@ -233379,12 +233308,10 @@ pinchpenny
 pincian
 pinckneya
 pincoffin
-pincpinc
 pinctada
 pincushion
 pincushions
 pincushiony
-pind
 pinda
 pindal
 pindari
@@ -233415,7 +233342,6 @@ pined
 pinedrops
 pineland
 pinelike
-pinene
 pinenes
 piner
 pineries
@@ -233482,7 +233408,6 @@ pinhold
 pinhole
 pinholes
 pinhook
-pinic
 pinicoline
 pinicolous
 pinier
@@ -233500,7 +233425,6 @@ pinionlike
 pinions
 pinipicrin
 pinitannic
-pinite
 pinites
 pinitol
 pinivorous
@@ -233587,7 +233511,6 @@ pinned
 pinnel
 pinner
 pinners
-pinnet
 pinnidae
 pinniferous
 pinniform
@@ -233684,8 +233607,6 @@ pintails
 pintano
 pintanos
 pintas
-pinte
-pintid
 pintle
 pintles
 pinto
@@ -233811,7 +233732,6 @@ pipestone
 pipet
 pipets
 pipette
-pipetted
 pipettes
 pipetting
 pipewalker
@@ -233819,8 +233739,6 @@ pipewood
 pipework
 pipewort
 pipey
-pipi
-pipid
 pipidae
 pipier
 pipiest
@@ -233842,8 +233760,6 @@ pipkin
 pipkinet
 pipkins
 pipless
-pipped
-pippen
 pipper
 pipperidge
 pippier
@@ -234264,7 +234180,6 @@ pitomie
 piton
 pitons
 pitpan
-pitpit
 pitprop
 pitressin
 pitris
@@ -234280,13 +234195,10 @@ pittances
 pittard
 pitted
 pitter
-pitticite
 pittidae
-pittine
 pitting
 pittings
 pittism
-pittite
 pittoid
 pittosporaceae
 pittosporaceous
@@ -236549,7 +236461,6 @@ plyscore
 plywood
 plywoods
 pmsg
-pnce
 pneodynamics
 pneograph
 pneomanometer
@@ -240877,7 +240788,6 @@ pozzolans
 pozzuolana
 pozzuolanic
 pozzy
-pptn
 praam
 praams
 prabble
@@ -251618,7 +251528,6 @@ ptilopaedes
 ptilopaedic
 ptilosis
 ptilota
-ptinid
 ptinidae
 ptinoid
 ptinus
@@ -315073,7 +314982,6 @@ tenotomy
 tenour
 tenours
 tenovaginitis
-tenpence
 tenpences
 tenpenny
 tenpin
@@ -315253,7 +315161,6 @@ tepanec
 teparies
 tepary
 tepas
-tepe
 tepecano
 tepee
 tepees
@@ -320131,15 +320038,12 @@ tipcart
 tipcarts
 tipcat
 tipcats
-tipe
 tipful
 tiphead
 tiphia
 tiphiidae
 tipi
 tipis
-tipit
-tipiti
 tiple
 tipless
 tiplet
@@ -320151,7 +320055,6 @@ tipoffs
 tiponi
 tippable
 tipped
-tippee
 tipper
 tippers
 tippet
