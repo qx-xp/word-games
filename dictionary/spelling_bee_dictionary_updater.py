@@ -1,5 +1,6 @@
 import re
 from .dictionary_updater import DictionaryUpdater
+from .spelling_bee_dictionary import SpellingBeeDictionary
 
 class SpellingBeeDictionaryUpdater(DictionaryUpdater):
     default_wordfile = "words_bee.txt"
@@ -8,15 +9,7 @@ class SpellingBeeDictionaryUpdater(DictionaryUpdater):
         super().__init__(wordfile)
 
     def is_exclude_word(self, word):
-        # remove all words that are less than 4 letters
-        if len(word) < 4:
-            return True
-
-        # spelling bee only uses 7 unique characters
-        if len(set(word)) > 7:
-            return True
-
-        return False
+        return not SpellingBeeDictionary.is_dictionary_word(word)
 
     # The file contains a list of words that may be prefixed by:
     #   '--' (no quote): remove the word from the dictionary
@@ -41,7 +34,7 @@ class SpellingBeeDictionaryUpdater(DictionaryUpdater):
 
                 if match.group(1) == '++': # add
                     # do not add if the word is excluded
-                    if self.is_exclude_word(match.group(2)):
+                    if not SpellingBeeDictionary.is_dictionary_word(match.group(2)):
                         continue
 
                     words_to_add.add(match.group(2))

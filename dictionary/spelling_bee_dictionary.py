@@ -20,17 +20,29 @@ class SpellingBeeDictionary(Dictionary):
 
         super().__init__(wordfile)
 
-
-    # only include words that can be formed by the spelling bee chars
-    def is_valid(self, word):
-        # word must be at least 4 letters long
+    # requirements of a spelling bee word
+    @classmethod
+    def is_dictionary_word(cls, word):
+        # words must be 4 letters or longer
         if len(word) < 4:
             return False
 
+        # spelling bee only uses 7 unique characters
+        if len(set(word)) > 7:
+            return False
+
+        return True
+
+    # test for solution word
+    def is_solution_word(self, word):
         # word must contain the required letter
         if self.required_letter not in word:
             return False
 
+        if not SpellingBeeDictionary.is_dictionary_word(word):
+            return False
+
+        # only include words that can be formed by the puzzle's letters
         return self.letter_matcher.search(word)
 
 
@@ -65,7 +77,7 @@ class SpellingBeeDictionary(Dictionary):
             for line in f:
                 word = line.strip().lower()
 
-                if not self.is_valid(word):
+                if not self.is_solution_word(word):
                     continue
 
                 # write to solution file
