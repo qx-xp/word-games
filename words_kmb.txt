@@ -576,7 +576,6 @@ ableptically
 abler
 ables
 ablesse
-ablest
 ablet
 ablewhackets
 ably
@@ -2734,6 +2733,7 @@ acquiescing
 acquiescingly
 acquiesence
 acquiet
+acquihire
 acquirability
 acquirable
 acquire
@@ -3184,10 +3184,8 @@ actinomyxidiida
 actinomorphy
 actinomorphic
 actinomorphous
-actinon
 actinonema
 actinoneuritis
-actinons
 actinophone
 actinophonic
 actinophore
@@ -7845,7 +7843,6 @@ aleger
 alehoof
 alehouse
 alehouses
-aleyard
 aleikoum
 aleikum
 aleiptes
@@ -16116,7 +16113,6 @@ antis
 antisabbatarian
 antisacerdotal
 antisacerdotalist
-antisag
 antisaloon
 antisalooner
 antisavage
@@ -17033,7 +17029,6 @@ apium
 apivorous
 apjohnite
 apl
-aplace
 aplacental
 aplacentalia
 aplacentaria
@@ -26805,8 +26800,6 @@ balearic
 balearica
 balebos
 baled
-baleen
-baleens
 balefire
 balefires
 baleful
@@ -28117,7 +28110,6 @@ barnard
 barnbrack
 barnburner
 barndoor
-barney
 barneys
 barnful
 barnhardtite
@@ -30968,7 +30960,6 @@ belap
 belar
 belard
 belash
-belast
 belat
 belate
 belated
@@ -35968,7 +35959,6 @@ bleaters
 bleaty
 bleating
 bleatingly
-bleats
 bleaunt
 bleb
 blebby
@@ -46636,8 +46626,6 @@ canting
 cantingly
 cantingness
 cantinier
-cantino
-cantion
 cantish
 cantle
 cantles
@@ -51449,7 +51437,6 @@ ceresin
 ceresine
 cereus
 cereuses
-cerevis
 cerevisial
 cereza
 cerfoil
@@ -64617,6 +64604,7 @@ completest
 completing
 completion
 completions
+completist
 completive
 completively
 completory
@@ -72714,7 +72702,6 @@ cresylene
 cresylic
 cresylite
 cresyls
-cresive
 cresol
 cresolin
 cresoline
@@ -73313,7 +73300,6 @@ crisped
 crispen
 crispened
 crispening
-crispens
 crisper
 crispers
 crispest
@@ -74323,7 +74309,6 @@ ctelette
 ctenacanthus
 ctene
 ctenidia
-ctenidial
 ctenidium
 cteniform
 ctenii
@@ -74753,7 +74738,6 @@ culpae
 culpas
 culpate
 culpatory
-culpeo
 culpon
 culpose
 culprit
@@ -78375,6 +78359,7 @@ decius
 decivilization
 decivilize
 deck
+deckchair
 decke
 decked
 deckedout
@@ -81442,7 +81427,6 @@ deozonizer
 dep
 depa
 depaganize
-depaint
 depainted
 depainting
 depaints
@@ -91372,7 +91356,6 @@ donees
 doney
 doneness
 donenesses
-donet
 dong
 donga
 donging
@@ -92652,7 +92635,6 @@ drams
 dramseller
 dramshop
 dramshops
-drang
 drank
 drant
 drapability
@@ -100096,7 +100078,6 @@ energic
 energical
 energico
 energid
-energids
 energies
 energise
 energised
@@ -101948,9 +101929,7 @@ epacrid
 epacridaceae
 epacridaceous
 epacris
-epact
 epactal
-epacts
 epaenetic
 epagoge
 epagogic
@@ -121764,7 +121743,6 @@ ganch
 ganched
 ganching
 ganda
-gander
 gandered
 ganderess
 gandergoose
@@ -126298,7 +126276,6 @@ glims
 glyn
 glink
 glynn
-glinse
 glint
 glinted
 glinting
@@ -130010,7 +129987,6 @@ gristmiller
 gristmilling
 grists
 grit
-grith
 grithbreach
 grithman
 griths
@@ -146751,6 +146727,7 @@ yellowcup
 yellowed
 yellower
 yellowest
+yellowface
 yellowfin
 yellowfish
 yellowhammer
@@ -149306,7 +149283,6 @@ inadaptability
 inadaptable
 inadaptation
 inadaptive
-inadept
 inadeptly
 inadeptness
 inadequacy
@@ -152444,7 +152420,6 @@ ingiver
 ingiving
 ingle
 inglenook
-ingles
 inglesa
 ingleside
 inglobate
@@ -157232,7 +157207,6 @@ invivid
 invocable
 invocant
 invocate
-invocated
 invocates
 invocating
 invocation
@@ -163659,7 +163633,6 @@ kelectome
 keleh
 kelek
 kelep
-kelia
 kelima
 kelyphite
 kelk
@@ -167442,7 +167415,6 @@ lakeweed
 lakh
 lakhs
 laky
-lakie
 lakier
 lakiest
 lakin
@@ -170639,7 +170611,6 @@ leprous
 leprously
 leprousness
 lepsaria
-lepta
 leptamnium
 leptandra
 leptandrin
@@ -171111,7 +171082,6 @@ levance
 levancy
 levant
 levanted
-levanter
 levantera
 levanters
 levantine
@@ -172032,7 +172002,6 @@ lignaloes
 lignatile
 ligne
 ligneous
-lignes
 lignescent
 lignicole
 lignicoline
@@ -173917,7 +173886,6 @@ liverleaves
 liverless
 liverpool
 liverpudlian
-livers
 liverwort
 liverworts
 liverwurst
@@ -175333,7 +175301,6 @@ lotos
 lotoses
 lotrite
 lots
-lotta
 lotte
 lotted
 lotter
@@ -176289,7 +176256,6 @@ lurid
 luridity
 luridly
 luridness
-luring
 luringly
 lurk
 lurked
@@ -177211,7 +177177,6 @@ mads
 madship
 madstone
 madtom
-madurese
 maduro
 maduros
 madweed
@@ -188372,7 +188337,6 @@ myristicaceae
 myristicaceous
 myristicivora
 myristicivorous
-myristin
 myristone
 mirk
 mirker
@@ -188432,7 +188396,6 @@ myrmotherine
 miro
 myrobalan
 myron
-myronate
 myronic
 myropolist
 myrosin
@@ -196732,7 +196695,6 @@ nantz
 naoi
 naology
 naological
-naometry
 naomi
 naos
 naosaurus
@@ -211177,7 +211139,6 @@ odinian
 odinic
 odinism
 odinist
-odinite
 odinitic
 odiometer
 odious
@@ -214120,7 +214081,6 @@ orchiotomy
 orchis
 orchises
 orchitic
-orchitis
 orchitises
 orchotomy
 orchotomies
@@ -215811,7 +215771,6 @@ otides
 otidia
 otididae
 otidiform
-otidine
 otidiphaps
 otidium
 otiorhynchid
@@ -217865,7 +217824,6 @@ outwished
 outwishes
 outwishing
 outwit
-outwith
 outwits
 outwittal
 outwitted
@@ -223749,7 +223707,6 @@ palestral
 palestras
 palestrian
 palestric
-palet
 paletiology
 paletot
 paletots
@@ -227538,7 +227495,6 @@ pated
 patee
 patefaction
 patefy
-patel
 patella
 patellae
 patellar
@@ -227748,7 +227704,6 @@ patinate
 patinated
 patination
 patine
-patined
 patines
 patinize
 patinized
@@ -227935,7 +227890,6 @@ pattara
 patte
 patted
 pattee
-patten
 pattened
 pattener
 pattens
@@ -229330,7 +229284,6 @@ pelotas
 pelotherapy
 peloton
 pelt
-pelta
 peltae
 peltandra
 peltast
@@ -230003,12 +229956,10 @@ penthrit
 penthrite
 pentice
 penticle
-pentyl
 pentylene
 pentylenetetrazol
 pentylic
 pentylidene
-pentyls
 pentimenti
 pentimento
 pentine
@@ -251413,7 +251364,6 @@ procurators
 procuratorship
 procuratrix
 procure
-procured
 procurement
 procurements
 procurer
@@ -260488,7 +260438,6 @@ rangers
 rangership
 ranges
 rangework
-rangy
 rangier
 rangiest
 rangifer
@@ -261745,7 +261694,6 @@ reaminess
 reaming
 reamputation
 reams
-reamuse
 reanalyses
 reanalysis
 reanalyzable
@@ -264481,8 +264429,6 @@ reedifies
 reedifying
 reedily
 reediness
-reeding
-reedings
 reedish
 reedit
 reedited
@@ -269863,7 +269809,6 @@ restipulatory
 restir
 restirred
 restirring
-restis
 restitch
 restitue
 restitute
@@ -270078,7 +270023,6 @@ resumptions
 resumptive
 resumptively
 resun
-resup
 resuperheat
 resupervise
 resupinate
@@ -271051,7 +270995,6 @@ reveille
 reveilles
 revel
 revelability
-revelant
 revelation
 revelational
 revelationer
@@ -272759,6 +272702,7 @@ rightness
 righto
 rights
 rightship
+rightsize
 rightward
 rightwardly
 rightwards
@@ -281728,8 +281672,6 @@ scribism
 scribophilous
 scride
 scryer
-scrieve
-scrieved
 scriever
 scrieves
 scrieving
@@ -283484,7 +283426,6 @@ selictar
 seligmannite
 selihoth
 selina
-seling
 selinuntine
 selion
 seljuk
@@ -286423,7 +286364,6 @@ servomotors
 servos
 servotab
 servulate
-servus
 serwamby
 sesame
 sesames
@@ -288774,7 +288714,6 @@ shopwife
 shopwindow
 shopwoman
 shopwomen
-shopwork
 shopworker
 shopworn
 shoq
@@ -294035,7 +293974,6 @@ slynesses
 sling
 slingback
 slingball
-slinge
 slinger
 slingers
 slinging
@@ -301329,7 +301267,6 @@ spruciest
 sprucify
 sprucification
 sprucing
-sprue
 spruer
 sprues
 sprug
@@ -306521,7 +306458,6 @@ strouthiocamel
 strouthiocamelian
 strouthocamelian
 strove
-strow
 strowd
 strowed
 strowing
@@ -312079,6 +312015,7 @@ superjets
 superjoined
 superjudicial
 superjudicially
+superjumbo
 superjunction
 superjurisdiction
 superjustification
@@ -314767,7 +314704,6 @@ tablemate
 tablement
 tablemount
 tabler
-tables
 tablesful
 tablespoon
 tablespoonful
@@ -316320,7 +316256,6 @@ tapleyism
 taplet
 tapling
 tapmost
-tapnet
 tapoa
 taposa
 tapotement
@@ -318693,7 +318628,6 @@ tendinitis
 tendinous
 tendinousness
 tendment
-tendo
 tendomucin
 tendomucoid
 tendon
@@ -319040,8 +318974,6 @@ teosintes
 teotihuacan
 tepa
 tepache
-tepal
-tepals
 tepanec
 tepary
 teparies
@@ -322997,7 +322929,6 @@ thursday
 thursdays
 thurse
 thurst
-thurt
 thus
 thusgate
 thushi
@@ -323513,7 +323444,6 @@ tillerless
 tillerman
 tillermen
 tillers
-tillet
 tilletia
 tilletiaceae
 tilletiaceous
@@ -323864,7 +323794,6 @@ tineina
 tineine
 tineman
 tinemen
-tineoid
 tineoidea
 tineola
 tinerer
@@ -328915,7 +328844,6 @@ tresaiel
 tresance
 tresche
 tresillo
-tresis
 trespass
 trespassage
 trespassed
@@ -331332,7 +331260,6 @@ trowie
 trowing
 trowlesworthite
 trowman
-trows
 trowsers
 trowth
 trowths
@@ -343086,7 +343013,6 @@ ungospellike
 ungossipy
 ungossiping
 ungot
-ungothic
 ungotten
 ungouged
 ungouty
@@ -349187,10 +349113,6 @@ unreeler
 unreelers
 unreeling
 unreels
-unreeve
-unreeved
-unreeves
-unreeving
 unreferenced
 unreferred
 unrefilled
@@ -355599,7 +355521,6 @@ urinousness
 urite
 urlar
 urled
-urling
 urluch
 urman
 urn
@@ -360500,7 +360421,6 @@ vitiligos
 vitilitigate
 vitiosity
 vitiosities
-vitis
 vitita
 vitium
 vitochemic
@@ -367622,7 +367542,6 @@ worthward
 worthwhile
 worthwhileness
 wortle
-worts
 wortworm
 wos
 wosbird
