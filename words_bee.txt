@@ -1775,8 +1775,6 @@ adamsites
 adance
 adangle
 adansonia
-adapa
-adapid
 adapis
 adapt
 adaptable
@@ -3954,8 +3952,6 @@ alantolic
 alants
 alanyl
 alanyls
-alap
-alapa
 alarbus
 alares
 alarge
@@ -4523,7 +4519,6 @@ alinota
 alintatao
 aliofar
 alioth
-alipata
 aliped
 alipeds
 aliphatic
@@ -5162,7 +5157,6 @@ alphyl
 alphyls
 alphyn
 alpian
-alpid
 alpieu
 alpigene
 alpine
@@ -8265,11 +8259,9 @@ apagoges
 apagogic
 apagogical
 apagogue
-apaid
 apair
 apaise
 apalachee
-apalit
 apama
 apanage
 apanaged
@@ -8469,7 +8461,6 @@ apigenin
 apiin
 apikoros
 apilary
-apili
 apimania
 apimanias
 apina
@@ -8515,7 +8506,6 @@ aplombs
 aplome
 aplopappus
 aplotomy
-apluda
 aplustra
 aplysia
 apnea
@@ -8715,7 +8705,6 @@ apoxesis
 apozem
 apozema
 appair
-appal
 appalachia
 appalachian
 appale
@@ -8761,7 +8750,6 @@ appassionato
 appast
 appaume
 appaumee
-appd
 appeach
 appeacher
 appeal
@@ -8853,7 +8841,6 @@ appetized
 appetizer
 appinite
 appius
-appl
 applanate
 applanation
 applaud
@@ -8977,8 +8964,6 @@ approver
 approvers
 approves
 approx
-apptd
-appui
 appulse
 appulses
 appurtenant
@@ -9019,7 +9004,6 @@ apsidally
 apsides
 apsis
 apsychia
-aptal
 apter
 aptera
 apteral
@@ -40561,7 +40545,6 @@ dadaisms
 dadaist
 dadaistic
 dadaists
-dadap
 dadas
 dadayag
 dadburned
@@ -44680,7 +44663,6 @@ dialogical
 dialogs
 dialonian
 dials
-dialup
 dialuric
 dialyse
 dialysed
@@ -45756,7 +45738,6 @@ dioxime
 dioxin
 dioxindole
 dioxy
-dipala
 dipartite
 dipchick
 dipcoat
@@ -45774,7 +45755,6 @@ diphyesis
 diphylla
 diphyozooid
 diphyzooid
-dipl
 dipladenia
 diplanar
 diplantidian
@@ -49614,7 +49594,6 @@ duotriode
 duotype
 duoviri
 dupable
-dupatta
 dupe
 duped
 dupedom
@@ -49626,7 +49605,6 @@ dupes
 duping
 dupion
 dupioni
-dupla
 duple
 duplet
 duplex
@@ -49643,7 +49621,6 @@ duply
 dupondidii
 dupondii
 dupondius
-duppa
 dupped
 dupper
 duppies
@@ -77881,7 +77858,6 @@ illuminism
 illuminist
 illuminize
 illuminous
-illupi
 illure
 illus
 illusible
@@ -81627,8 +81603,6 @@ iphigenia
 iphimedia
 iphis
 ipidae
-ipil
-ipilipil
 ipocras
 ipomea
 ipomoea
@@ -88532,7 +88506,6 @@ lapidist
 lapidists
 lapidity
 lapies
-lapilli
 lapillo
 lapillus
 lapin
@@ -88549,8 +88522,6 @@ laplandic
 lapling
 lapon
 laportea
-lapp
-lappa
 lappage
 lapped
 lapper
@@ -88561,13 +88532,11 @@ lappeted
 lappethead
 lappets
 lappic
-lappilli
 lapping
 lappish
 lapponese
 lapponian
 lapps
-lappula
 lapputan
 laps
 lapsable
@@ -88584,8 +88553,6 @@ lapsided
 lapsing
 lapsus
 laptop
-lapulapu
-laputa
 laputan
 lapwing
 lapwork
@@ -90836,7 +90803,6 @@ liliiflorae
 lilium
 lillianite
 lillibullero
-lilliput
 lilliputian
 lilliputs
 lilly
@@ -91323,7 +91289,6 @@ lions
 lionship
 liothrix
 liotrichi
-lipa
 lipaemia
 lipaemic
 lipan
@@ -91388,7 +91353,6 @@ lipper
 lippered
 lippering
 lippers
-lippia
 lippie
 lippier
 lippiest
@@ -93264,7 +93228,6 @@ lupeose
 lupercal
 luperci
 lupicide
-lupid
 lupin
 lupine
 lupines
@@ -113909,7 +113872,6 @@ ozophen
 ozophene
 ozostomia
 ozotype
-paal
 paar
 paas
 paauw
@@ -114037,7 +113999,6 @@ padang
 padasha
 padauk
 padauks
-padda
 padded
 padder
 paddies
@@ -114311,7 +114272,6 @@ pakistan
 pakistani
 pakistanis
 paktong
-pala
 palabra
 palabras
 palace
@@ -114343,7 +114303,6 @@ palais
 palaiste
 palaite
 palaka
-palala
 palama
 palamae
 palamate
@@ -114361,8 +114320,7 @@ palankeen
 palankeened
 palankeener
 palanquin
-palapala
-palapalai
+palapa
 palaquium
 palar
 palas
@@ -114381,7 +114339,6 @@ palateful
 palateless
 palatelike
 palates
-palatia
 palatial
 palatially
 palatian
@@ -114400,8 +114357,6 @@ palatize
 palatoglossal
 palatonasal
 palatoplasty
-palatua
-palau
 palaung
 palaver
 palavered
@@ -114462,14 +114417,10 @@ palewise
 palfrey
 palfry
 palgat
-pali
 palier
 paliest
 palikar
 palikars
-palila
-palilalia
-palilia
 palilicium
 palillogia
 palilogy
@@ -114492,9 +114443,7 @@ paliurus
 palkee
 palki
 pall
-palla
 palladammin
-palladia
 palladian
 palladic
 palladion
@@ -114504,7 +114453,6 @@ palladized
 palladous
 pallae
 pallah
-pallall
 pallar
 pallas
 pallasite
@@ -114517,12 +114465,8 @@ palletize
 pallets
 pallette
 pallettes
-palli
-pallia
-pallial
 palliard
 palliasse
-palliata
 palliate
 palliated
 palliates
@@ -114550,7 +114494,6 @@ pallone
 pallor
 pallors
 palls
-pallu
 pallwise
 palm
 palma
@@ -114616,7 +114559,6 @@ palpable
 palpableness
 palpably
 palpacle
-palpal
 palpate
 palpated
 palpates
@@ -114630,7 +114572,6 @@ palpebrae
 palpebral
 palpebrate
 palped
-palpi
 palpifer
 palpiger
 palpitant
@@ -114654,8 +114595,6 @@ palstaff
 palstave
 palster
 palsy
-palt
-palta
 palter
 paltered
 palterer
@@ -114666,16 +114605,13 @@ paltock
 paltrier
 paltrily
 paltry
-paludal
 palude
-paludial
 paludian
 paludic
 paludina
 paludinal
 paludous
 palule
-paluli
 palulus
 palus
 palustral
@@ -115212,10 +115148,8 @@ paprika
 paprikas
 papriks
 paps
-papua
 papuan
 papuans
-papula
 papulae
 papulan
 papular
@@ -116263,7 +116197,6 @@ patcher
 patches
 patchhead
 patchy
-patd
 pate
 pated
 patefy
@@ -116437,11 +116370,9 @@ patties
 patting
 pattle
 pattoo
-pattu
 patty
 pattypan
 pattypans
-patu
 patuca
 patulent
 patulin
@@ -116450,17 +116381,13 @@ patuxent
 patwari
 patwin
 paty
-paua
 paucal
 paucify
 paucity
 paughty
 paukpan
 pauky
-paul
-paula
 paular
-pauliad
 paulian
 pauliccian
 paulician
@@ -116483,7 +116410,6 @@ paumari
 paunch
 paunche
 paunchy
-paup
 pauper
 pauperage
 pauperate
@@ -116513,7 +116439,6 @@ pauses
 pausing
 paussid
 paussidae
-paut
 pauxi
 pavade
 pavage
@@ -119386,8 +119311,6 @@ piaffer
 piaffers
 piaffes
 piaffing
-pial
-piala
 pialyn
 pian
 pianet
@@ -119842,12 +119765,10 @@ pilaff
 pilaffs
 pilafs
 pilage
-pilapil
 pilar
 pilary
 pilate
 pilatian
-pilau
 pilaued
 pilaus
 pilaw
@@ -119888,7 +119809,6 @@ pilgrim
 pilgrimer
 pilgrimism
 pilgrims
-pili
 pilidium
 pilies
 pilifer
@@ -119903,7 +119823,6 @@ pilin
 piline
 piling
 pilings
-pilipilula
 pilis
 pilitico
 pilkins
@@ -119985,9 +119904,7 @@ pilotry
 pilots
 pilotship
 pilous
-pilpai
 pilpay
-pilpul
 pilpulist
 pilpulistic
 pilsener
@@ -119995,7 +119912,6 @@ pilseners
 pilsner
 pilsners
 piltock
-pilula
 pilular
 pilularia
 pilule
@@ -120350,7 +120266,6 @@ piousness
 pioxe
 pipage
 pipages
-pipal
 pipals
 pipe
 pipeage
@@ -120416,7 +120331,6 @@ pipidae
 pipier
 pipiest
 pipikaula
-pipil
 pipile
 pipilo
 piping
@@ -120630,7 +120544,6 @@ pitapatting
 pitarah
 pitas
 pitastile
-pitau
 pitawas
 pitaya
 pitayita
@@ -120722,8 +120635,6 @@ pittism
 pittoid
 pittospore
 pituicyte
-pituita
-pituital
 pituitary
 pituite
 pituitous
@@ -120739,7 +120650,6 @@ pitylus
 pityproof
 pityriasis
 pityroid
-piupiu
 piuri
 pius
 piute
@@ -120996,7 +120906,6 @@ planum
 planuria
 planury
 planxty
-plap
 plappert
 plaque
 plaques
@@ -121092,7 +121001,6 @@ platie
 platier
 platies
 platiest
-platilla
 platina
 platinamin
 platinammin
@@ -121113,7 +121021,6 @@ platoon
 platoons
 platopic
 plats
-platt
 platted
 platteland
 platten
@@ -121137,7 +121044,6 @@ platysma
 platysmas
 platysmata
 platytropy
-plaud
 plaudit
 plaustral
 plautus
@@ -121486,7 +121392,6 @@ pluckily
 pluckless
 plucks
 plucky
-plud
 pluff
 pluffer
 pluffy
@@ -121602,7 +121507,6 @@ plunked
 plunker
 plunking
 plunks
-plup
 plupf
 plur
 plural
@@ -126766,7 +126670,6 @@ pucklike
 puckrel
 pucks
 pucksey
-pudda
 puddee
 puddening
 pudder
@@ -126804,7 +126707,6 @@ pudicity
 puds
 pudsey
 pudsy
-pudu
 pueblo
 pueblos
 puelche
@@ -126967,7 +126869,6 @@ pullets
 pulley
 pulleyless
 pulleys
-pulli
 pullicat
 pulling
 pullings
@@ -126988,7 +126889,6 @@ pulment
 pulmonal
 pulmotor
 pulp
-pulpal
 pulpalgia
 pulpally
 pulpar
@@ -127006,7 +126906,6 @@ pulpily
 pulpiness
 pulping
 pulpit
-pulpital
 pulpiteer
 pulpiter
 pulpitful
@@ -127061,7 +126960,6 @@ pulton
 pultost
 pultun
 pulture
-pulu
 pulv
 pulvic
 pulvil
@@ -127600,7 +127498,6 @@ putelee
 puteli
 puther
 puthery
-putid
 putidly
 puting
 putlock
@@ -127633,7 +127530,6 @@ puttered
 putterer
 putterers
 putters
-putti
 puttie
 puttied
 puttier
@@ -159850,7 +159746,6 @@ talion
 talionic
 talionis
 talions
-talipat
 taliped
 talipes
 talipot
@@ -159958,11 +159853,9 @@ talooka
 talookas
 talose
 talotibial
-talpa
 talpacoti
 talpatate
 talpetate
-talpid
 talpidae
 talpify
 talpine
@@ -160436,8 +160329,6 @@ taposa
 tapotement
 tapoun
 tappable
-tappall
-tappaul
 tapped
 tappen
 tapper
@@ -160460,8 +160351,6 @@ tapsman
 tapster
 tapsters
 tapstress
-tapu
-tapul
 tapuya
 tapuyan
 tapuyo
@@ -160869,7 +160758,6 @@ tataric
 tatarization
 tatarize
 tatary
-tataupa
 tatchy
 tater
 taters
@@ -164422,7 +164310,6 @@ tilting
 tiltlike
 tiltmeter
 tilts
-tiltup
 tilture
 tilty
 tiltyard
@@ -164792,9 +164679,7 @@ tipsters
 tipstock
 tipstocks
 tipsy
-tiptail
 tipteerer
-tiptilt
 tiptoe
 tiptoed
 tiptoeing
@@ -164806,11 +164691,8 @@ tiptopper
 tiptoppish
 tiptops
 tiptopsome
-tipula
 tipularia
-tipulid
 tipuloid
-tipup
 tipura
 tiqueur
 tirade
@@ -165033,7 +164915,6 @@ tittle
 tittlebat
 tittler
 tittles
-tittup
 tittuped
 tittuping
 tittupped
@@ -168847,7 +168728,6 @@ tukutuku
 tula
 tuladi
 tuladis
-tulalip
 tulare
 tulasi
 tulcan
@@ -168857,9 +168737,7 @@ tule
 tules
 tuliac
 tulip
-tulipa
 tulipant
-tulipi
 tulipist
 tuliplike
 tulips
@@ -169055,15 +168933,12 @@ tunnland
 tunny
 tuns
 tuny
-tupaia
-tupaiid
 tupaiidae
 tupakihi
 tupara
 tupek
 tupelo
 tupelos
-tupi
 tupian
 tupik
 tupiks
@@ -176193,9 +176068,7 @@ upkeep
 upkeeps
 upknell
 upknit
-upla
 upladder
-uplaid
 uplake
 upland
 uplands
@@ -176275,7 +176148,6 @@ uppropped
 uppropping
 upprops
 uppuff
-uppull
 uppush
 upquiver
 upraisal
@@ -176461,7 +176333,6 @@ upthrusts
 uptide
 uptie
 uptight
-uptill
 uptilt
 uptilted
 uptilting
@@ -176494,7 +176365,6 @@ upturned
 upturning
 upturns
 uptwist
-upupa
 upupidae
 upupoid
 upvalley
