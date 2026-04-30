@@ -1558,7 +1558,6 @@ accidented
 accidential
 accidentiality
 accidently
-accidents
 accidia
 accidie
 accidies
@@ -3102,7 +3101,6 @@ actinias
 actinic
 actinical
 actinically
-actinide
 actinides
 actinidia
 actinidiaceae
@@ -8088,7 +8086,6 @@ alginate
 alginates
 algine
 alginic
-algins
 alginuresis
 algiomuscular
 algist
@@ -8252,7 +8249,6 @@ aligners
 aligning
 alignment
 alignments
-aligns
 aligreek
 alii
 aliya
@@ -12215,7 +12211,6 @@ ancientism
 anciently
 ancientness
 ancientry
-ancients
 ancile
 ancilia
 ancilla
@@ -22511,7 +22506,6 @@ atheneums
 athenian
 athenianly
 athenians
-athenor
 athens
 atheology
 atheological
@@ -33822,6 +33816,7 @@ bilaterality
 bilateralities
 bilaterally
 bilateralness
+bilaterial
 bilati
 bylaw
 bylawman
@@ -46372,7 +46367,6 @@ cannibally
 cannibals
 cannie
 cannier
-canniest
 cannikin
 cannikins
 cannily
@@ -67376,7 +67370,6 @@ continentally
 continentals
 continently
 continents
-contineu
 contingence
 contingency
 contingencies
@@ -71402,8 +71395,6 @@ coveralls
 coverchief
 covercle
 covered
-coverer
-coverers
 covering
 coverings
 coverless
@@ -74271,7 +74262,6 @@ cte
 ctelette
 ctenacanthus
 ctene
-ctenidia
 ctenidium
 cteniform
 ctenii
@@ -76682,7 +76672,6 @@ danglement
 dangler
 danglers
 dangles
-danglin
 dangling
 danglingly
 dangs
@@ -79339,7 +79328,6 @@ defogging
 defogs
 defoil
 defoliage
-defoliant
 defoliants
 defoliate
 defoliated
@@ -83922,7 +83910,6 @@ diacetyl
 diacetylene
 diacetylmorphine
 diacetyls
-diacetin
 diacetine
 diacetonuria
 diaceturia
@@ -83973,7 +83960,6 @@ diacromyodian
 diact
 diactin
 diactinal
-diactine
 diactinic
 diactinism
 diaculum
@@ -93273,7 +93259,6 @@ dropsies
 dropsywort
 dropsonde
 dropt
-dropvie
 dropwise
 dropworm
 dropwort
@@ -104597,7 +104582,6 @@ estraying
 estrays
 estral
 estramazone
-estrange
 estranged
 estrangedness
 estrangelo
@@ -104679,7 +104663,6 @@ etape
 etapes
 etas
 etatism
-etatisme
 etatisms
 etatist
 etc
@@ -107488,7 +107471,6 @@ expecter
 expecters
 expecting
 expectingly
-expection
 expective
 expectorant
 expectorants
@@ -111741,7 +111723,6 @@ feuilletonist
 feuilletonistic
 feuilletons
 feuing
-feulamort
 feus
 feute
 feuter
@@ -116675,7 +116656,6 @@ forementioned
 foremessenger
 foremilk
 foremilks
-foremind
 foremisgiving
 foremistress
 foremost
@@ -122634,7 +122614,6 @@ gator
 gats
 gatsby
 gatten
-gatter
 gatteridge
 gattine
 gau
@@ -124812,7 +124791,6 @@ gillying
 gilling
 gillion
 gilliver
-gillnet
 gillnets
 gillnetted
 gillnetting
@@ -125799,7 +125777,6 @@ glandulosity
 glandulous
 glandulousness
 glaniostomi
-glanis
 glans
 glar
 glare
@@ -146469,7 +146446,6 @@ idol
 idola
 idolaster
 idolastre
-idolater
 idolaters
 idolatress
 idolatry
@@ -153317,7 +153293,6 @@ insearch
 insecable
 insect
 insecta
-insectan
 insectary
 insectaria
 insectaries
@@ -153421,7 +153396,6 @@ insessorial
 inset
 insets
 insetted
-insetter
 insetters
 insetting
 inseverable
@@ -155751,7 +155725,6 @@ intersesamoid
 intersession
 intersessional
 intersessions
-interset
 intersetting
 intersex
 intersexes
@@ -164760,7 +164733,6 @@ kingpin
 kingpins
 kingpost
 kingposts
-kingrow
 kings
 kingship
 kingships
@@ -168577,7 +168549,6 @@ lashness
 lashorn
 lasi
 lasianthous
-lasing
 lasiocampa
 lasiocampid
 lasiocampidae
@@ -171087,8 +171058,6 @@ levining
 levynite
 levins
 levir
-levirate
-levirates
 leviratic
 leviratical
 leviration
@@ -171230,7 +171199,6 @@ liane
 lianes
 liang
 liangle
-liangs
 lianoid
 liar
 liard
@@ -171812,7 +171780,6 @@ ligamentum
 ligan
 ligand
 ligands
-ligans
 ligas
 ligase
 ligases
@@ -172648,7 +172615,6 @@ lingayat
 lingala
 lingam
 lingams
-lingas
 lingberry
 lingberries
 lyngbyaceae
@@ -181648,7 +181614,6 @@ meathooks
 meaty
 meatic
 meatier
-meatiest
 meatily
 meatiness
 meatless
@@ -185943,6 +185908,7 @@ microfauna
 microfaunal
 microfelsite
 microfelsitic
+microfibre
 microfibril
 microfibrillar
 microfiche
@@ -228373,7 +228339,6 @@ peckage
 pecked
 pecker
 peckers
-peckerwood
 pecket
 peckful
 peckhamite
@@ -250007,7 +249972,6 @@ prevocational
 prevogue
 prevoyance
 prevoyant
-prevoid
 prevoidance
 prevolitional
 prevolunteer
@@ -261250,7 +261214,6 @@ reachableness
 reachably
 reached
 reacher
-reachers
 reaches
 reachy
 reachieve
@@ -262569,7 +262532,6 @@ recharters
 recharting
 recharts
 rechase
-rechaser
 rechasten
 rechate
 rechauffe
@@ -271632,7 +271594,6 @@ rheostatic
 rheostatics
 rheostats
 rheotactic
-rheotan
 rheotaxis
 rheotome
 rheotron
@@ -273789,7 +273750,6 @@ romanity
 romanium
 romanization
 romanize
-romanized
 romanizer
 romanizes
 romanizing
@@ -277611,7 +277571,6 @@ sangh
 sangha
 sangho
 sanghs
-sangil
 sangir
 sangirese
 sanglant
@@ -281024,7 +280983,6 @@ scorifies
 scorifying
 scoriform
 scoring
-scorings
 scorious
 scorkle
 scorn
@@ -303791,7 +303749,6 @@ sternforemost
 sternful
 sternfully
 sterninae
-sternite
 sternites
 sternitic
 sternknee
@@ -317309,7 +317266,6 @@ teathe
 teather
 teaty
 teatime
-teatimes
 teatlike
 teatling
 teatman
@@ -324226,7 +324182,6 @@ tyroglyphid
 tyroglyphidae
 tyroglyphus
 tyroid
-tirolean
 tyrolean
 tirolese
 tyrolese
@@ -324930,7 +324885,6 @@ tolbooth
 tolbooths
 tolbutamide
 told
-tolderia
 toldo
 tole
 toled
@@ -329395,7 +329349,6 @@ trienniums
 triens
 triental
 trientalis
-trientes
 triequal
 trier
 trierarch
@@ -335583,7 +335536,6 @@ unbiliously
 unbiliousness
 unbillable
 unbilled
-unbillet
 unbilleted
 unbind
 unbindable
@@ -365718,6 +365670,7 @@ windstorms
 windstream
 windsucker
 windsurf
+windsurfer
 windswept
 windtight
 windup
