@@ -22752,7 +22752,6 @@ atoners
 atones
 atony
 atonia
-atonic
 atonicity
 atonics
 atonies
@@ -25892,6 +25891,7 @@ backspier
 backspierer
 backspin
 backspins
+backsplash
 backsplice
 backspliced
 backsplicing
@@ -44713,10 +44713,8 @@ calamospermae
 calamostachys
 calamumi
 calamus
-calander
 calando
 calandra
-calandre
 calandria
 calandridae
 calandrinae
@@ -49696,10 +49694,8 @@ catydid
 catilinarian
 catiline
 cating
-cation
 cationic
 cationically
-cations
 cativo
 catjang
 catkin
@@ -50750,7 +50746,6 @@ centaurus
 centavo
 centavos
 centena
-centenar
 centenary
 centenarian
 centenarianism
@@ -51291,7 +51286,6 @@ cerdonian
 cere
 cereal
 cerealian
-cerealin
 cerealism
 cerealist
 cerealose
@@ -57633,7 +57627,6 @@ cinerarium
 cineration
 cinerator
 cinerea
-cinereal
 cinereous
 cinerin
 cinerins
@@ -62659,7 +62652,6 @@ colfox
 coli
 coly
 coliander
-colias
 colyba
 colibacillosis
 colibacterin
@@ -87864,7 +87856,6 @@ disentanglements
 disentangler
 disentangles
 disentangling
-disenter
 dysentery
 dysenteric
 dysenterical
@@ -92587,7 +92578,6 @@ drapery
 draperied
 draperies
 drapers
-drapes
 drapet
 drapetomania
 draping
@@ -100289,7 +100279,6 @@ englutted
 englutting
 engnessang
 engobe
-engold
 engolden
 engore
 engorge
@@ -129510,7 +129499,6 @@ gregos
 grey
 greyback
 greybeard
-greycoat
 greyed
 greyer
 greyest
@@ -131315,7 +131303,6 @@ gurgle
 gurgled
 gurgles
 gurglet
-gurglets
 gurgly
 gurgling
 gurglingly
@@ -150651,7 +150638,6 @@ indescribableness
 indescribably
 indescript
 indescriptive
-indesert
 indesignate
 indesinent
 indesirable
@@ -153377,7 +153363,6 @@ inseparately
 insequent
 insert
 insertable
-inserted
 inserter
 inserters
 inserting
@@ -157706,7 +157691,6 @@ irascible
 irascibleness
 irascibly
 irate
-irately
 irateness
 irater
 iratest
@@ -167818,7 +167802,6 @@ landowners
 landownership
 landowning
 landplane
-landrace
 landrail
 landraker
 landreeve
@@ -168839,7 +168822,6 @@ latomy
 latomia
 laton
 latona
-latonian
 latooka
 latosol
 latosolic
@@ -169025,7 +169007,6 @@ laurelship
 laurelwood
 laurence
 laurencia
-laurent
 laurentian
 laurentide
 laureole
@@ -169566,7 +169547,6 @@ leavenish
 leavenless
 leavenous
 leavens
-leaver
 leaverwood
 leaves
 leavetaking
@@ -174697,7 +174677,6 @@ longbows
 longcloth
 longe
 longear
-longed
 longee
 longeing
 longer
@@ -196992,7 +196971,6 @@ natality
 natalitial
 natalities
 natally
-nataloin
 natals
 natant
 natantly
@@ -197132,7 +197110,6 @@ nature
 naturecraft
 natured
 naturedly
-naturel
 naturelike
 natureliked
 naturellement
@@ -220058,7 +220035,6 @@ overmoralized
 overmoralizing
 overmoralizingly
 overmorally
-overmore
 overmortgage
 overmortgaged
 overmortgaging
@@ -222632,7 +222608,6 @@ padpiece
 padraic
 padraig
 padre
-padres
 padri
 padrino
 padroadist
@@ -226633,7 +226608,6 @@ parsable
 parse
 parsec
 parsecs
-parsed
 parsee
 parseeism
 parser
@@ -239824,7 +239798,6 @@ plicatocristate
 plicatolacunose
 plicatolobate
 plicatopapillose
-plicator
 plicatoundulate
 plicatulate
 plicature
@@ -259051,7 +259024,6 @@ racegoing
 racehorse
 racehorses
 racelike
-raceline
 racemase
 racemate
 racemates
@@ -260635,7 +260607,6 @@ raspberry
 raspberriade
 raspberries
 raspberrylike
-rasped
 rasper
 raspers
 raspy
@@ -266484,7 +266455,6 @@ relativistic
 relativistically
 relativity
 relativization
-relativize
 relator
 relators
 relatrix
@@ -268273,7 +268243,6 @@ reprime
 reprimed
 reprimer
 repriming
-reprint
 reprinted
 reprinter
 reprinting
@@ -275257,7 +275226,6 @@ rummaging
 rummer
 rummery
 rummers
-rummes
 rummest
 rummy
 rummier
@@ -280785,7 +280753,6 @@ scolecospore
 scoley
 scoleryng
 scolex
-scolia
 scolices
 scoliid
 scoliidae
@@ -283155,7 +283122,6 @@ selenates
 selene
 selenian
 seleniate
-selenic
 selenicereus
 selenide
 selenidera
@@ -285207,7 +285173,6 @@ sentinelwise
 sentisection
 sentition
 sentry
-sentried
 sentries
 sentrying
 sents
@@ -288686,7 +288651,6 @@ shouldn
 shouldna
 shouldnt
 shouldst
-shoulerd
 shoupeltin
 shouse
 shout
@@ -291713,7 +291677,6 @@ syntelome
 syntenosis
 sinter
 sinterability
-sintered
 synteresis
 sintering
 sinters
@@ -297883,8 +297846,6 @@ spadefuls
 spadelike
 spademan
 spademen
-spader
-spaders
 spades
 spadesman
 spadewise
@@ -298080,7 +298041,6 @@ sparaxis
 sparch
 spare
 spareable
-spared
 spareful
 spareless
 sparely
@@ -300039,7 +299999,6 @@ splanchnotomy
 splanchnotomical
 splanchnotribe
 splash
-splashback
 splashboard
 splashdown
 splashdowns
@@ -317199,7 +317158,6 @@ teargassing
 teary
 tearier
 teariest
-tearily
 teariness
 tearing
 tearingly
@@ -317263,7 +317221,6 @@ teataster
 teated
 teatfish
 teathe
-teather
 teaty
 teatime
 teatlike
@@ -320882,7 +320839,6 @@ thereanent
 thereanents
 therearound
 thereas
-thereat
 thereaway
 thereaways
 therebefore
@@ -334430,7 +334386,6 @@ unalaska
 unalcoholised
 unalcoholized
 unaldermanly
-unalert
 unalerted
 unalertly
 unalertness
@@ -363562,7 +363517,6 @@ weirdward
 weirdwoman
 weirdwomen
 weiring
-weirless
 weirs
 weys
 weisbachite
